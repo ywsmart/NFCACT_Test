@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NFCACT_Test_Suite" duration-ms="35912" started-at="2017-03-30T09:01:51Z" finished-at="2017-03-30T09:02:26Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="35912" started-at="2017-03-30T09:01:51Z" finished-at="2017-03-30T09:02:26Z">
+      <class name="com.ontime.testscripts.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="setUp" is-config="true" duration-ms="5922" started-at="2017-03-30T17:01:51Z" finished-at="2017-03-30T17:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Text1()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="Text1" duration-ms="0" started-at="2017-03-30T17:01:57Z" finished-at="2017-03-30T17:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Text1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="tearDown" is-config="true" duration-ms="1373" started-at="2017-03-30T17:01:57Z" finished-at="2017-03-30T17:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="setUp" is-config="true" duration-ms="5278" started-at="2017-03-30T17:01:58Z" finished-at="2017-03-30T17:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Text2()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="Text2" duration-ms="1" started-at="2017-03-30T17:02:03Z" finished-at="2017-03-30T17:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Text2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="tearDown" is-config="true" duration-ms="720" started-at="2017-03-30T17:02:03Z" finished-at="2017-03-30T17:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="setUp" is-config="true" duration-ms="5299" started-at="2017-03-30T17:02:04Z" finished-at="2017-03-30T17:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Text3()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="Text3" duration-ms="1" started-at="2017-03-30T17:02:09Z" finished-at="2017-03-30T17:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Text3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="tearDown" is-config="true" duration-ms="758" started-at="2017-03-30T17:02:09Z" finished-at="2017-03-30T17:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="setUp" is-config="true" duration-ms="4915" started-at="2017-03-30T17:02:10Z" finished-at="2017-03-30T17:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="tearDown" is-config="true" duration-ms="733" started-at="2017-03-30T17:02:15Z" finished-at="2017-03-30T17:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Text4()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="Text4" duration-ms="0" started-at="2017-03-30T17:02:15Z" finished-at="2017-03-30T17:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Text4 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="setUp" is-config="true" duration-ms="5101" started-at="2017-03-30T17:02:16Z" finished-at="2017-03-30T17:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="loginTestCase" duration-ms="5074" started-at="2017-03-30T17:02:21Z" finished-at="2017-03-30T17:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ontime.testscripts.LoginTest@880ec60]" name="tearDown" is-config="true" duration-ms="711" started-at="2017-03-30T17:02:26Z" finished-at="2017-03-30T17:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ontime.testscripts.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- NFCACT_Test_Suite -->
+</testng-results>
